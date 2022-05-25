@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@chakra-ui/react": "^1.7.3",
+    "@chakra-ui/react": "^1.8.8",
     "@giphy/js-fetch-api": "^1.5.9",
     "@giphy/react-components": "^1.0.7",
     "@testing-library/jest-dom": "^4.2.4",
